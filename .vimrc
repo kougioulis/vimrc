@@ -1,5 +1,8 @@
 "vimrc (vim runtime configuration file) 
 
+"Enable packloadall for pack plugins
+packloadall
+
 "show line numbers
 set number        
 
